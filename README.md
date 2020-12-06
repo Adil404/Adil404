@@ -1,3 +1,4 @@
+[![Download](https://img.shields.io/badge/download-bookmarked%20book-orange.svg)][![Download](https://img.shields.io/badge/download-book-brightgreen.svg)]
 ### Hi there 👋🏻 
 I’m an Electronics and communication Engineer graduating in 2021 having basic knowledge of python and aspiring machine learning 
 
